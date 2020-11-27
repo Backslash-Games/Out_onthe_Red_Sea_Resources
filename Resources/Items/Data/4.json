@@ -1,0 +1,21 @@
+{
+    "name": "Syringe",
+    "item_id": 4,
+    "description": "",
+    "item_type": 1,
+    "health": 0.0,
+    "attack": 0.0,
+    "defense": 0.0,
+    "speed": 0.0,
+    "luck": 0.0,
+    "fire_rate": 0.0,
+    "shot_speed": 0.0,
+    "weight": 50.0,
+    "raw_texture": {
+        "instanceID": 0
+    },
+    "sprite": {
+        "instanceID": 0
+    },
+    "overlay_sprites": []
+}
