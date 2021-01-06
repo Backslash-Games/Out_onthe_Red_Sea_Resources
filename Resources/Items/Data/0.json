@@ -8,7 +8,7 @@
     "defense": 0.0,
     "speed": 0.0,
     "luck": 0.0,
-    "fire_rate": 0.1,
+    "reload_speed": 0.1,
     "shot_speed": 0.0,
     "weight": 100.0,
     "raw_texture": {
